@@ -1,6 +1,6 @@
 ---
 name: product-motion-video
-description: Build a 60-second motion-graphic product/brand video (showreel, promo, launch teaser, explainer) as a single self-contained HTML animation, optionally exported to MP4. Use whenever the user asks for a motion graphic, product video, showreel, promo reel, animated brand film, or "1 minute video" for a product, company, or idea, even if they don't say "skill". Token-efficient by design.
+description: Build a 60-second motion-graphic product/brand video (showreel, promo, launch teaser, explainer) as a single self-contained  animation, optionally exported to MP4. Use whenever the user asks for a motion graphic, product video, showreel, promo reel, animated brand film, or "1 minute video" for a product, company, or idea, even if they don't say "skill". Token-efficient by design.
 ---
 
 # Product Motion Video (60s)
